@@ -60,3 +60,34 @@
 		http://www.importnew.com/16266.html
 ######10行Java代码实现最近被使用（LRU）缓存
 		http://www.importnew.com/16264.html
+		
+###VIM:
+######Vim入门：
+		http://wsztrush.github.io/%E5%B7%A5%E5%85%B7/2015/06/10/VIM.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+
+######Vim游戏：
+		http://blog.jobbole.com/18337/
+######简明Vim练级攻略：
+		http://coolshell.cn/articles/5426.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+
+###项目构建工具:
+######Maven：
+		简介：
+			http://hao.jobbole.com/maven/
+######Gradle:
+		使用Gradle构建Java项目：
+			http://www.importnew.com/15881.html	
+			
+###Javascript:
+######rainyday.js
+		https://maroslaw.github.io/rainyday.js/
+		
+###算法：
+######分页：
+		http://blog.jobbole.com/93218/
+		
+###消息中间件：
+######淘宝的消息中间件(2013)
+		https://segmentfault.com/a/1190000003059871?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+######Redis实现简单消息队列：
+		http://www.jianshu.com/p/9c04890615ba?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
