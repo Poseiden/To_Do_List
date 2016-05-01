@@ -91,3 +91,14 @@
 		https://segmentfault.com/a/1190000003059871?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
 ######Redis实现简单消息队列：
 		http://www.jianshu.com/p/9c04890615ba?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+		
+###Github:
+######Githug:
+		http://www.jianshu.com/p/482b32716bbe?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+######15个用户Github的Chrome插件
+		http://webres.wang/15-useful-chrome-extensions-for-github/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+######利用github搭建个人maven仓库
+		http://www.importnew.com/19178.html
+###语言：
+######The Interrelationship of Object Orientation and Functional Programming
+		http://www.brandonkeown.com/2016/01/the-interrelationship-of-object.html
