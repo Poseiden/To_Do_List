@@ -25,6 +25,8 @@
 	http://python.jobbole.com/84842/
 #####Python字符串格式化
 	http://python.jobbole.com/84841/
+#####Python面试的30个问答
+        https://intellipaat.com/interview-question/python-interview-questions/
 	
 ###Java：
 #####Java对象的深复制与浅复制
