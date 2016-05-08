@@ -15,8 +15,6 @@
 	http://www.zhihu.com/question/29372574/answer/88624507?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
 #####Python学习进阶路线（简版）
 	http://codingpy.com/article/python-progression-path-simple-version/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
-#####ThinkPython 2e:
-	http://codingpy.com/books/thinkpython2/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
 #####Python中的大型Web应用：一个好的架构
 	http://mp.weixin.qq.com/s?__biz=MjM5NzU0MzU0Nw==&mid=2651370125&idx=1&sn=9b18ba874c92d102424dc4a48f28b875&scene=0#wechat_redirect
 #####Python字符串格式化
