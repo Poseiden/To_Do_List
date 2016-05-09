@@ -36,6 +36,8 @@
 ######框架：
 		Shiro：
 			http://hao.jobbole.com/shiro/
+		Spring 面试69问
+			http://www.importnew.com/19538.html
 ######Java资源大全中文版
 		https://github.com/jobbole/awesome-java-cn
 ######白话JVM——深入JVM类加载机制
@@ -96,3 +98,7 @@
 ###语言：
 ######The Interrelationship of Object Orientation and Functional Programming
 		http://www.brandonkeown.com/2016/01/the-interrelationship-of-object.html
+		
+### OS:
+###### 100个Linux常用命令大全
+		http://www.codeceo.com/article/100-linux-useful-command.html
