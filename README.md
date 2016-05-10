@@ -44,8 +44,6 @@
 		http://blog.csdn.net/dd864140130/article/details/49817357?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
 ######JVM相关知识：
 		http://www.importnew.com/16388.html
-######HashMap，HashSet，Hashtable，Vector，ArrayList 的关系
-		https://segmentfault.com/a/1190000002900115
 ######关于Java集合：
 		http://www.importnew.com/16235.html
 ######为什么要用String
