@@ -73,6 +73,8 @@
 ###Javascript:
 ######rainyday.js
 		https://maroslaw.github.io/rainyday.js/
+######ES6
+		http://www.infoq.com/cn/es6-in-depth/
 		
 ###算法：
 ######分页：
@@ -98,3 +100,6 @@
 ### OS:
 ###### 100个Linux常用命令大全
 		http://www.codeceo.com/article/100-linux-useful-command.html
+		
+### React
+
