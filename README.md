@@ -21,8 +21,6 @@
         https://intellipaat.com/interview-question/python-interview-questions/
 	
 ###Java：
-#####Java对象的深复制与浅复制
-		http://www.importnew.com/18999.html
 #####JVM的内存区域划分
 		http://www.importnew.com/18961.html
 #####Java垃圾回收机制：
