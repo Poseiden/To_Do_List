@@ -27,15 +27,11 @@
 		http://www.importnew.com/19085.html
 #####面试题：
 		http://group.jobbole.com/12883/
-		Spring面试问答
-			http://www.importnew.com/16247.html
 #####深度分析 Java 的 ClassLoader 机制（源码级别）
 		http://blog.jobbole.com/96145/
 ######框架：
 		Shiro：
 			http://hao.jobbole.com/shiro/
-		Spring 面试69问
-			http://www.importnew.com/19538.html
 ######Java资源大全中文版
 		https://github.com/jobbole/awesome-java-cn
 ######白话JVM——深入JVM类加载机制
