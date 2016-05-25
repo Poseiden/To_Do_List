@@ -50,8 +50,6 @@
 		http://www.importnew.com/16264.html
 		
 ###VIM:
-######Vim入门：
-		http://wsztrush.github.io/%E5%B7%A5%E5%85%B7/2015/06/10/VIM.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
 
 ######Vim游戏：
 		http://blog.jobbole.com/18337/
@@ -95,5 +93,7 @@
 ###### 100个Linux常用命令大全
 		http://www.codeceo.com/article/100-linux-useful-command.html
 		
-### React
+### NodeJS
+###### 七天学会NodeJS
+                https://nqdeng.github.io/7-days-nodejs/#1
 
