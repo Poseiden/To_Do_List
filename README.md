@@ -92,8 +92,3 @@
 ### OS:
 ###### 100个Linux常用命令大全
 		http://www.codeceo.com/article/100-linux-useful-command.html
-		
-### NodeJS
-###### 七天学会NodeJS
-                https://nqdeng.github.io/7-days-nodejs/#1
-
