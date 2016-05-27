@@ -65,9 +65,7 @@
 			http://www.importnew.com/15881.html	
 			
 ###Javascript:
-######rainyday.js
-		https://maroslaw.github.io/rainyday.js/
-		
+
 ###算法：
 ######分页：
 		http://blog.jobbole.com/93218/
