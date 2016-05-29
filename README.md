@@ -38,8 +38,6 @@
 		http://blog.csdn.net/dd864140130/article/details/49817357?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
 ######JVM相关知识：
 		http://www.importnew.com/16388.html
-######关于Java集合：
-		http://www.importnew.com/16235.html
 ######为什么要用String
 		http://www.importnew.com/13664.html
 ######10Things you don't know about Java
