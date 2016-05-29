@@ -77,8 +77,6 @@
 ###Github:
 ######Githug:
 		http://www.jianshu.com/p/482b32716bbe?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
-######15个用户Github的Chrome插件
-		http://webres.wang/15-useful-chrome-extensions-for-github/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
 ######利用github搭建个人maven仓库
 		http://www.importnew.com/19178.html
 ###语言：
