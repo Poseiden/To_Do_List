@@ -86,3 +86,6 @@
 ### OS:
 ###### 100个Linux常用命令大全
 		http://www.codeceo.com/article/100-linux-useful-command.html
+
+### 学习方法：
+##### 程序员的知识管理： http://blog.jobbole.com/101321/?from=timeline&isappinstalled=0
