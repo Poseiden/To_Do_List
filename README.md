@@ -48,9 +48,6 @@
 		http://www.importnew.com/16264.html
 		
 ###VIM:
-
-######Vim游戏：
-		http://blog.jobbole.com/18337/
 ######简明Vim练级攻略：
 		http://coolshell.cn/articles/5426.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
 
